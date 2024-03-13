@@ -1,7 +1,7 @@
 //Precisa chamar a classe Locale para mudar a localidade do programa e a classe Scanner para ter input
 import java.util.Locale;
 import java.util.Scanner;
-public class Main {
+public class MarcadoresPrintF {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

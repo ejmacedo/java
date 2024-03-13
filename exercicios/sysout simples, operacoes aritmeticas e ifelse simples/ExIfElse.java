@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Logica01{
+public class ExIfElse{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
