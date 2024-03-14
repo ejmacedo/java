@@ -1,6 +1,6 @@
 import java.util.Locale;
 import java.util.Scanner;
-public class Ex_printf {
+public class PrintF_5 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -28,7 +28,7 @@ public class Ex_printf {
 		
 		System.out.printf("%s, which price is R$ %.2f%n", product1, price1);
         System.out.printf("%s, which price is R$ %.2f%n%n", product2, price2);
-        System.out.printf("Record, %d years old, code %d and gender: %c%n", age, code, gender);
+        System.out.printf("Record: %d years old, code %d and gender: %c%n", age, code, gender);
         System.out.printf("Measure with eight decimal places: %.8f%n", measure);
         System.out.printf("Rounded (three decimal places): %.3f%n", measure);
 
